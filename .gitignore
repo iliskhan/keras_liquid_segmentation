@@ -1,0 +1,5 @@
+*/.ipynb_checkpoints/*.ipynb
+
+*.h5
+*.torch
+*.log
